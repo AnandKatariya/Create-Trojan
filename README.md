@@ -7,4 +7,7 @@
 
 
 ### 🏠 [Homepage](https://github.com/AnandKatariya?tab=repositories)
+<p align =center >
+  <img src="https://eadn-wc05-3736104.nxedge.io/wp-content/uploads/2022/06/Trojan-Horse-Virus_MAIN-IMAGE-scaled.jpeg" height='288' width='512' />
+</p>
 
