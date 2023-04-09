@@ -14,5 +14,5 @@
 <h1 align="center">Dont try this at Home, School,Or any other public place!!!</h1>
 <br>
 
-<h1 align="center"> Introduction to Trojan👋</h1>
+<h1 align="center"> Introduction to Trojan</h1>
 <p>
