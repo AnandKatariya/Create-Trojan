@@ -21,3 +21,7 @@
 ```sh
 sudo su
 ```
+# Git clone
+```sh
+git clone https://github.com/screetsec/TheFatRat.git
+```
