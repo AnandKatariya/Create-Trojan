@@ -17,11 +17,15 @@
 <h1 align="center"> Introduction to Trojan</h1>
 <p>
  
-  ## Go to Root Terminal
+# Go to Root Terminal
 ```sh
 sudo su
 ```
-# Git clone
+## Git clone
 ```sh
 git clone https://github.com/screetsec/TheFatRat.git
+```
+  ## Go to dictonary
+```sh
+cd FatRat/
 ```
