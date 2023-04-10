@@ -16,3 +16,8 @@
 
 <h1 align="center"> Introduction to Trojan</h1>
 <p>
+ 
+  ## Go to Root Terminal
+```sh
+sudo su
+```
