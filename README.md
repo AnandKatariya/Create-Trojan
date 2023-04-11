@@ -74,7 +74,7 @@ chmod +x fatrat
 ``` 
   Now we will able to see that all repository are been updated, But still now we can see that some tools are not been install, As we can see that mingw-32, mingw-w64 are not install so we need to manually install it.
 
-    ## Install mingw-w64
+ ## Install mingw-w64
 ```sh
 apt-get install mingw-w64
 ```
