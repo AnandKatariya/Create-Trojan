@@ -67,3 +67,9 @@ chmod +x fatrat
 ```sh
 ./fatrat
 ```
+
+  ## Run the setup file
+```sh
+./setup.sh
+``` 
+  Now we will able to see that all repository are been updated, But still now we can see that some tools are not been install, As we can see that mingw-32, mingw-w64 are not install so we need to manually install it.
