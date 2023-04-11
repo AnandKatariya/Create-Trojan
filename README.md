@@ -63,3 +63,7 @@ ls
 chmod +x fatrat
 ```
   
+## Run the FatRat
+```sh
+./fatrat
+```
