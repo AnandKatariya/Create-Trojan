@@ -89,7 +89,7 @@ Now all tools have been installed. So now you can run the file and make the Remo
 ```sh
 ./fatrat
 ```
- <h3 align="center">Now its the end of code you can have fun with this Trojan and just remember don't use it for revenge or any other public place just have fun with this. </h3>
+ <h3> Now its the end of code you can have fun with this Trojan and just remember don't use it for revenge or any other public place just have fun with this. </h3>
 
 ## Author
 
