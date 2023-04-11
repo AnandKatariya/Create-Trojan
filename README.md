@@ -78,3 +78,9 @@ chmod +x fatrat
 ```sh
 apt-get install mingw-w64
 ```
+  
+   ## Install mingw-32
+```sh
+apt-get install mingw-32
+```
+Now all tools have been installed. So now you can run the file and make the Remote Acess Trojan (RAT).
