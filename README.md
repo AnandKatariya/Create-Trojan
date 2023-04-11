@@ -35,3 +35,9 @@ ls
 ```
 So now here you will able to see that setup.sh don't have excuateable permission, So we will give the permission.
 
+## See which file are excuatable
+```sh
+ls -l
+```
+So we can see here that this setup.sh file don't have excuatalbe permission only these file have read and write permission, So will give ther permission.
+
