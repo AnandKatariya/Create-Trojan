@@ -41,3 +41,8 @@ ls -l
 ```
 So we can see here that this setup.sh file don't have excuatalbe permission only these file have read and write permission, So will give ther permission.
 
+## Give excuatable permission
+```sh
+chmod +x setup.sh
+```
+ Now the file name setup.sh will get excuatable permission.
