@@ -29,5 +29,9 @@ git clone https://github.com/screetsec/TheFatRat.git
 ```sh
 cd FatRat/
 ```
-
+## List the  dictonary
+```sh
+ls
+```
+So now here you will able to see that setup.sh don't have excuateable permission, So we will give the permission.
 
