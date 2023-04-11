@@ -52,3 +52,9 @@ chmod +x setup.sh
 setup.sh
 ```
  It will upgrade all the repository and will autoinstall all the tool which are needed.
+  
+  ## List the dictonary
+```sh
+ls 
+```
+  
