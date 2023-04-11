@@ -46,3 +46,9 @@ So we can see here that this setup.sh file don't have excuatalbe permission only
 chmod +x setup.sh
 ```
  Now the file name setup.sh will get excuatable permission.
+  
+  ## Run the file
+```sh
+setup.sh
+```
+ It will upgrade all the repository and will autoinstall all the tool which are needed.
