@@ -85,8 +85,8 @@ apt-get install mingw-32
 ```
 Now all tools have been installed. So now you can run the file and make the Remote Acess Trojan (RAT).
 
-  ## oPEN THE FILE
+  ## Open the file
 ```sh
 ./fatrat
 ```
- <h1 align="center">Now its the end of code you can have fun with this Trojan and just remember don't use it for revenge or any other public place just have fun with this. </h1>
+ <h3 align="center">Now its the end of code you can have fun with this Trojan and just remember don't use it for revenge or any other public place just have fun with this. </h3>
