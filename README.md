@@ -90,3 +90,18 @@ Now all tools have been installed. So now you can run the file and make the Remo
 ./fatrat
 ```
  <h3 align="center">Now its the end of code you can have fun with this Trojan and just remember don't use it for revenge or any other public place just have fun with this. </h3>
+
+## Author
+
+👤 **Anand Katariya**
+
+* Github: [@AnandKatariya](https://github.com/AnandKatariya)
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/AnandKatariya/Create-Trojan/issues).
+
+## Show your support
+
+Give a ⭐️ if this project helped you! <br>
+Stay tuned for more updates
