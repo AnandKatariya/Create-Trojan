@@ -58,3 +58,8 @@ setup.sh
 ls 
 ```
   
+## Give excuatable permission to FatRat
+```sh
+chmod +x fatrat
+```
+  
